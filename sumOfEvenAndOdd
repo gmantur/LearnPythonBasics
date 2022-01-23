@@ -11,4 +11,4 @@ while x > 0:
     x = x // 10
 
  print("Even : ", even)
-print("Odd : ", odd)
+                                    print("Odd : ", odd)
