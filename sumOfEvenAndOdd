@@ -10,5 +10,5 @@ while x > 0:
         odd = odd + b
     x = x // 10
 
-prin("Even : ", even)
+ print("Even : ", even)
 print("Odd : ", odd)
